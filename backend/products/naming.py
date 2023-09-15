@@ -1,0 +1,6 @@
+product_id = 'Saipa Yadak Number'
+product_category = 'related_section'
+product_price = 'price'
+product_name = 'Desc_Arabic' 
+product_vehicle_type = 'Veh_Type'
+product_quantity = 'qty'

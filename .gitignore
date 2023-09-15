@@ -1,0 +1,9 @@
+/backend/db.sqlite3
+*.pyc
+*.cpyc
+venv/
+py_client/*.py
+/testing_files
+telegram_bot/links.py
+Django_Rest_Frame.code-workspace
+backend/drf/settings.py
